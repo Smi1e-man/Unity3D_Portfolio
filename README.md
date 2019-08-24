@@ -8,6 +8,6 @@ Gameplay
 
 <p align="center">
 <img src="img/img_3touches_1.png"/>
-<img src="gif/demo_touches.gif"/>
+<img src="gif/demo_3touches.gif"/>
 <img src="img/img_3touches_2.png"/>
 </p>
