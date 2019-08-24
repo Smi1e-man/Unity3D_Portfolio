@@ -2,7 +2,7 @@
 
 ### ARrobot
 `<projectLink>` : [ARrobot](https://github.com/Smi1e-man/ARrobot)
-###### Unity3D | AR | Vuforia | AR App
+###### Unity3D | AR | Vuforia | AR App | Unity course: Introduction to XR: AR, VR, MR
 <p align="center">
 <img src="img/img_arrobot_1.png"/>
 <img src="gif/demo_arrobot.gif"/>
